@@ -1,11 +1,11 @@
 {
   "name": "voc-dom",
   "browser": {
-    "dom.js": "browser-dom.js"
+    "dom.js": "./browser-dom.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Utility package for voc-api.",
-  "main": "dom.js",
+  "main": "./dom.js",
   "author": "Thor Galle",
   "license": "MIT",
   "dependencies": {
